@@ -8,7 +8,7 @@ useSeoMeta({
   ogDescription: page.value.description
 })
 
-const pages: number = ref(1)
+const pages = ref(1)
 const items = ref(Array(55))
 </script>
 
